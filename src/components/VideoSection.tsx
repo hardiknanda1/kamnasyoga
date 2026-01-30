@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import instructorVideo from '@/assets/instructor-video.mp4';
+import instructorVideo from '@/assets/videoplayback.mp4';
 
 const VideoSection = () => {
   return (
